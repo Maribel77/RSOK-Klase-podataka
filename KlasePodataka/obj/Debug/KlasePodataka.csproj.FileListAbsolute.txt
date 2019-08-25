@@ -1,0 +1,18 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\Projekat1\04 cas\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\Projekat1\04 cas\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\Projekat1\04 cas\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\Projekat1\04 cas\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\Projekat1\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\Projekat1\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\Projekat1\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\Projekat1\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\Projekat1\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csprojResolveAssemblyReference.cache
+C:\Users\Bobaz\Desktop\RSOK\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\RSOK\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\RSOK\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\Bobaz\Desktop\RSOK\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\Bobaz\Desktop\RSOK\Moje\01 sloj za rad sa podacima\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csprojResolveAssemblyReference.cache
